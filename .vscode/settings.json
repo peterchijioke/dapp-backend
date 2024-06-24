@@ -1,5 +1,8 @@
 {
   "solidity.compileUsingRemoteVersion": "v0.8.1+commit.df193b15",
   "solidity.compileUsingLocalVersion": "/Users/chijiokepeter/Desktop/sandbox/dapp-backend/soljson-v0.8.26+commit.8a97fa7a.js",
-  "solidity.defaultCompiler": "localFile"
+  "solidity.defaultCompiler": "localFile",
+  "cSpell.words": [
+    "binaryville"
+  ]
 }
