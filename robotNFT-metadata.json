@@ -1,0 +1,10 @@
+{
+  "description": "Binaryville  Creature that enjoys long swims in the ocean.",
+  "image": "ipfs://QmTG38hmrqMwGzSLmU4jkyfoASji3Yi6xY5H7A4YYabJP1",
+  "name": "Bert",
+  "attributes": [
+    { "trait_type": "Base", "value": "Toaster Head" },
+    { "trait_type": "color", "value": "Blue" },
+    { "trait_type": "Expression", "value": "Dejection" }
+  ]
+}
