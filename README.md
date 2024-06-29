@@ -1,7 +1,7 @@
 
 
 # My Smart Contract Development Project
-This repository contains a project I developed as part of the Blockchain Development with Ethereum and EVM-Compatible Blockchains course on LinkedIn Learning. This project demonstrates my understanding and application of blockchain concepts, smart contracts, and decentralized application (DApp) development.
+This repository contains a project I developed as part of the Blockchain Development with Ethereum. This project demonstrates my understanding and application of blockchain concepts, smart contracts, and decentralized application (DApp) development.
 
 # Project Overview
 This project showcases the following key features:
