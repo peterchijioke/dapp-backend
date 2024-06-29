@@ -1,6 +1,6 @@
 
 
-# My Blockchain Development Project
+# My Smart Contract Development Project
 This repository contains a project I developed as part of the Blockchain Development with Ethereum and EVM-Compatible Blockchains course on LinkedIn Learning. This project demonstrates my understanding and application of blockchain concepts, smart contracts, and decentralized application (DApp) development.
 
 # Project Overview
@@ -36,6 +36,20 @@ Ensure you have the following installed:
 - HardHat
 - MetaMask extension in your browser
 
+## Installation
+To automate the setup process, you can use the provided shell script.
+
+```shell
+git clone https://github.com/peterchijioke/dapp-backend.git
+cd my-blockchain-project
+```
+
+# Resources
+- Ethereum Documentation
+- Solidity Documentation
+- Web3.js Documentation
+- Truffle Suite
+- HardHat
 
 
 Try running some of the following tasks:
